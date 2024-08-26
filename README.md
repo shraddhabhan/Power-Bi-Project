@@ -34,7 +34,7 @@ You can explore the Power BI report here. The report is interactive, allowing yo
 Branch Information
 This project is located in its own branch in this repository:
 
-Branch Name: earthquake-1900-2013
+Branch Name: Data-Visualization--Earthquake
 Switch to this branch to view the associated files, including the Power BI .pbix file , Screenshot of the Datavisualization and dataset .
 
 Conclusion
