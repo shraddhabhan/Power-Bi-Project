@@ -7,20 +7,14 @@ I've organized this repository into different branches, with each branch dedicat
 Projects Overview
 Project Amazon-Prime
 
-Branch: project-name-1
-Description: Brief description of the project, including the purpose and key insights gained.
-Data Source: Details about the data used, including where it was sourced from and any preprocessing steps taken.
-Visualizations: List of the key visualizations created, such as charts, graphs, and dashboards.
-Key Findings: Summary of the main findings or outcomes of the project.
-Link: View the Power BI report
+Branch: Data-Visualization--Amazon-Prime
+Description: This project aims to develop a comprehensive dashboard that analyzes data on Amazon Prime's vast library of movies and TV shows. By leveraging a rich dataset encompassing details like cast, directors, ratings, release year, and duration, this dashboard provides valuable insights into content trends and user preferences.
+Link:https://github.com/shraddhabhan/Power-Bi-Project/tree/Data-Visualization--Amazon-Prime
 
-Project Earthquake
-Branch: Earthquake-1900-2013
-Description: Brief description of the project, including the purpose and key insights gained.
-Data Source: Details about the data used, including where it was sourced from and any preprocessing steps taken.
-Visualizations: List of the key visualizations created, such as charts, graphs, and dashboards.
-Key Findings: Summary of the main findings or outcomes of the project.
-Link: View the Power BI report
+Project Earthquake-1900-2013
+Branch:Data-Visualization--Earthquake
+Description: This project involves analyzing and visualizing global earthquake data from 1900 to 2013. The dataset was sourced from Kaggle and contains information on earthquakes, including their locations, magnitudes, and depths. Through this project, I aimed to uncover patterns and trends in earthquake occurrences over time and across different regions.
+Link:https://github.com/shraddhabhan/Power-Bi-Project/tree/Data-Visualization--Earthquake
 
 How to Use
 Each project is contained within its own branch, which you can switch to in order to explore the specific files and reports associated with that project.
